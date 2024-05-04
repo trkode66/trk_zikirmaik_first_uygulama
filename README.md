@@ -1,1 +1,1 @@
-# trk_zikirmaik_first_uygulama
+# trk_zikirmatik_first_project
